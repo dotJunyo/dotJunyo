@@ -22,8 +22,8 @@
 <h3 align="left">Doação:</h3>
 <p><a href="https://ko-fi.com/junyo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="junyo" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotjunyo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dotjunyo" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=dotjunyo&show_icons=true&theme=dracula&locale=en" alt="dotjunyo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotjunyo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dotjunyo" /></p>
 
-<p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dotjunyo&show_icons=true&theme=dracula&locale=en" alt="dotjunyo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotjunyo&theme=dark" alt="dotjunyo" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dotjunyo&theme=dark" alt="dotjunyo" /></p>
