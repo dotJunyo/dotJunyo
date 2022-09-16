@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotjunyo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dotjunyo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotjunyo&show_icons=true&theme=dracula&locale=en" alt="dotjunyo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dotjunyo&show_icons=true&theme=dracula&locale=en" alt="dotjunyo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotjunyo&theme=dark" alt="dotjunyo" /></p>
