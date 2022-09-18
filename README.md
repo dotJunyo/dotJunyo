@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho na [Valenet](https://valenet.com.br/)
 
-- 🌱 Atualmente estudo **Flutter** e **C#**
+- 🌱 Atualmente estudo **Flutter** e **.NET**
 
 - 📫 Vamos conversar pelo **contato@junyo.dev**
 
