@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, me chamo Junyo</h1>
-<h3 align="center">Desenvolvedor C# e entusiasta de Flutter</h3>
+<h3 align="center">Analista DevOps</h3>
 
 - 🔭 Atualmente trabalho na [Valenet](https://valenet.com.br/)
 
-- 🌱 Atualmente estudo **Flutter** e **.NET**
+- 🌱 Atualmente estudo **JavaScript** e **Lua**
 
 - 📫 Vamos conversar pelo **contato@junyo.dev**
 
