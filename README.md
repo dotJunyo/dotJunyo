@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, me chamo Junyo</h1>
 <h3 align="center">Analista DevOps</h3>
 
-- 🔭 Atualmente trabalho na [Valenet](https://valenet.com.br/)
+- 🔭 Trabalho na [Valenet](https://valenet.com.br/)
 
 - 🌱 Atualmente estudo **JavaScript** e **Lua**
 
