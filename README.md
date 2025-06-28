@@ -1,18 +1,8 @@
 <h1 align="center">Oi 👋, me chamo Junyo</h1>
 <h3 align="center">Analista DevOps</h3>
 
-- 🔭 Trabalho na [Valenet](https://valenet.com.br/)
-
-- 🌱 Atualmente estudo **JavaScript** e **Lua**
-
-- 📫 Vamos conversar pelo **contato@junyo.dev**
-
-- ⚡ Fato divertido **Sou um grande apreciador de cactos**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://dev.to/dotjunyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dotjunyo" height="30" width="40" /></a>
-<a href="https://twitter.com/dotjunyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dotjunyo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junyo-gabriel-91636475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junyo-gabriel-91636475" height="30" width="40" /></a>
 </p>
 
